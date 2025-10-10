@@ -102,7 +102,7 @@ As the Lua engine improves, many of these triggers should be moved away from stu
 
 I've used sound polling for most effects simply out of convenience, as when a sound plays is the correct time to trigger haptics so that has been the main approach. However, as more event handlers and engine handlers are added, transitioning these over to proper events would make sense.
 
-A great example is the melee hit effects when striking another actor. I asked about this on the Discord, and bluepanda mentioned there is `Combat` interface that can be used. This would be perfect, however I couldn't use it in the present implementation since I'm targeting version 0.49.0 (Lua API v76).
+A great example is the melee hit effects when striking another actor. I asked about this on the Discord, and blurpanda mentioned there is `Combat` interface that can be used. This would be perfect, however I couldn't use it in the present implementation since I'm targeting version 0.49.0 (Lua API v76).
 
 Over time, the performance of this mod should improve as the Lua engine is extended and enhanced.
 
