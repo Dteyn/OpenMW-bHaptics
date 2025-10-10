@@ -1,0 +1,4 @@
+PLAYER: scripts/bHaptics/player.lua
+PLAYER: scripts/bHaptics/player-flight.lua
+GLOBAL: scripts/bHaptics/global.lua
+MENU: scripts/bHaptics/menu.lua
