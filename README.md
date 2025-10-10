@@ -5,7 +5,7 @@ A mod to add bHaptics support to [OpenMW](https://openmw.org/), with a focus on 
 ## Version: 0.1.5-alpha
 
 > [!WARNING]
-> This mod is currently in a very early **alpha** state. I've published the Lua scripts for now, but have not yet published the required compaion app config.
+> This mod is currently in a very early **alpha** state. I've published the Lua scripts for now, but have not yet published the required companion app config.
 >
 > There are some [Known Issues](#known-issues) with performance/memory in the Lua scripts in v0.1.5-alpha, once those are improved I'll publish the complete mod including companion app as v0.2.0-beta.
 
